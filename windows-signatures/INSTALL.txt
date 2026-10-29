@@ -1,0 +1,16 @@
+Windows Outlook install
+=======================
+
+1. Close Outlook.
+2. Delete any OLD signature files with the same name from:
+   %AppData%\Microsoft\Signatures
+
+   Open that folder: Win+R, paste the path, Enter.
+
+3. Copy ALL files and folders from this package into that folder.
+4. Open Outlook -> File -> Options -> Mail -> Signatures.
+5. Select the signature and set it as default.
+6. Click OK. Do not edit or re-paste inside the box.
+
+Images are hosted online (same as copy/paste from the browser).
+If you keep an old .rtf file, recipients will not see the logo or QR.
